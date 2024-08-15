@@ -1,5 +1,7 @@
-Project Title: PARK-PRO
-Project Overview:
+<div align="center">
+  <p><b>Project Title-PARK_PRO</b></p>
+</div>
+<b>Project Overview:</b>
 The QR-Based Box Parking Management System is a web interface designed to solve the common issue of blocked parking, specifically in scenarios known as "box parking." Box parking occurs when a vehicle is parked in a way that blocks other vehicles from exiting their parking space, creating significant inconvenience for other drivers.
 <div align="center">
   <img src="assets/box-parking.png" alt="My Project Logo" width="200" />
