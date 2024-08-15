@@ -17,9 +17,24 @@ User Registration:
 Vehicle owners must first register on our portal. The registration process involves creating an account by providing essential details such as the vehicle registration number, contact information, and any other required personal information.
 After successful registration, the system generates a unique QR code for each user, linked to their vehicle's registration number.
 
+<div align="center">
+  <img src="assets/login.png" alt="My Project Logo" width="200" />
+</div>
+<div align="center">
+  <p>Fig-Login Page</p>
+</div>
+
+<div align="center">
+  <img src="assets/register.png" alt="My Project Logo" width="200" />
+</div>
+<div align="center">
+  <p>Fig-Registration Page</p>
+</div>
+
 QR Code Generation and Application:
 
 The generated QR code must be printed and affixed to the vehicle in a visible location, such as the windshield or rear window. This QR code serves as a digital identifier for the vehicle, making it easy for others to contact the owner if the vehicle is blocking access.
+
 
 Blocked Vehicle Scenario:
 
