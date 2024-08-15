@@ -1,2 +1,5 @@
 # PARKPRO1
-![BOX-Parking](assets/box-parking.png)
+<div align="center">
+  <img src="" alt="My Project Logo" width="200" />
+</div>
+
