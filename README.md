@@ -62,7 +62,7 @@ Upon scanning, they are redirected to a user-friendly interface that offers pred
 </div>
 
 <div align="center">
-  <img src="assets/flowchart.png" alt="My Project Logo" width="400" />
+  <img src="assets/flowchart.jpg" alt="My Project Logo" width="400" />
 </div>
 <div align="center">
   <p>Fig-Basic Flow of work</p>
