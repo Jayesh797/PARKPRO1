@@ -33,10 +33,31 @@ After successful registration, the system generates a unique QR code for each us
 
 QR Code Generation and Application:
 
-The generated QR code must be printed and affixed to the vehicle in a visible location, such as the windshield or rear window. This QR code serves as a digital identifier for the vehicle, making it easy for others to contact the owner if the vehicle is blocking access.
+The generated QR (after Registration) code must be printed and affixed to the vehicle in a visible location, such as the windshield or rear window. This QR code serves as a digital identifier for the vehicle, making it easy for others to contact the owner if the vehicle is blocking access.
 
+<div align="center">
+  <img src="assets/QRgen.png" alt="My Project Logo" width="200" />
+</div>
+<div align="center">
+  <p>Fig-Unique QR Code after Registration</p>
+</div>
 
 Blocked Vehicle Scenario:
 
 If a user's vehicle is blocked by another vehicle, they can scan the QR code on the blocking vehicle using their smartphone.
 Upon scanning, they are redirected to a user-friendly interface that offers predefined options to send a message or place a call to the vehicle owner. The message and call options are predefined to ensure clarity and consistency in communication, making the process quick and straightforward.
+
+<div align="center">
+  <img src="assets/callmessage.png" alt="My Project Logo" width="200" />
+</div>
+<div align="center">
+  <p>Fig-Interface to call or message</p>
+</div>
+
+<div align="center">
+  <img src="assets/prompt.png" alt="My Project Logo" width="200" />
+</div>
+<div align="center">
+  <p>Fig-Promt asking for vehicle registration number on QR</p>
+</div>
+
