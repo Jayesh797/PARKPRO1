@@ -50,7 +50,7 @@ app.post('/register',async(req,res)=>
                 }
             )
             const result=await newDoc.save();
-            const TARGET_WEBSITE = 'http://192.168.0.105:3000/';
+            const TARGET_WEBSITE = 'http://---ip---/';
             const vehicleRegno=req.body.Registration
             try 
             {
@@ -103,7 +103,7 @@ app.post('/login',async(req,res)=>
         {
             if(check[0].password===req.body.password)
             {
-                const TARGET_WEBSITE = 'http://192.168.0.105:3000/';
+                const TARGET_WEBSITE = 'http://--ip---/';
                 try 
                 {
                     // Generate the QR code
