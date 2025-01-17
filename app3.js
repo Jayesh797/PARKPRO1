@@ -13,12 +13,12 @@ app.use(express.static('public'));
 app.use(express.urlencoded({ extended: true }));
 app.use(express.static('public'));
 
-const accountSid = 'ACbebdd753c48f4247ec74e8674bfb759d';
-const authToken = '288825e56fa18daf1af0920d9345db76';
+const accountSid = '--account id---';
+const authToken = '---authorization token ----';
 const twilioClient = twilio(accountSid, authToken);
 app.use('/', routes);
 
 app.listen(3000, () => {
     // console.log(`Server is running on http://127.0.0.1:${port}`);
-    console.log(`Server is running on http://192.168.0.105:3000/`);
+    console.log(`Server is running on http://--ip--/`);
 });
